@@ -1,3 +1,3 @@
 generally,
-    cat franklin_****.txt | ./franklin_****.py > franklin_****.out
+    cat franklin_BLAH.txt | ./franklin_BLAH.py > franklin_BLAH.out
 but replace 'franklin' with the correct name
