@@ -1,2 +1,2 @@
 # franklin
-some popular bioinformatics problems, solved
+## some popular and less-popular bioinformatics-related problems, solved 
